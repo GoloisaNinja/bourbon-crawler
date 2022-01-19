@@ -1,0 +1,16 @@
+{
+	"name": "crawler",
+	"version": "1.0.0",
+	"description": "a project build to crawl site data and build db",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"start": "node index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Jon Collins",
+	"license": "ISC",
+	"devDependencies": {
+		"puppeteer": "^13.0.1"
+	}
+}
